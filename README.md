@@ -17,3 +17,4 @@ This project is a Python-based image classification program using **ImageAI** wi
 python image_classification.py
 
 View the predicted classes and probabilities.
+Due to compatibility issues with ImageAI and the latest Python versions, this project must be run in a VM or environment using Python 3.8-3.11.
